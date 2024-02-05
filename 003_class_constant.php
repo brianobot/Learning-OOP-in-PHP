@@ -1,4 +1,7 @@
 <?php
+// CONSTANT are attributes that are not expected to change,
+// they are hard coded in the code and are imutable the entire life cycle
+// of the application,
 
 // Class Constants can be defined on a per class basis
 
