@@ -50,7 +50,7 @@ echo "This is value of SomeClass::TWO:  " . SomeClass::TWO . "\n";
 echo "This is value of SomeClass::THREE: " . SomeClass::THREE . "\n";
 echo "This is value of SomeClass::SENTENCE: " . SomeClass::SENTENCE . "\n";
 
-// visiblity modifers can also be applied to constant
+// visiblity modifers can also be applied to constant this
 class Foo {
     public const BAR = 'bar';
     private const BAZ = 'baz';
